@@ -39,7 +39,6 @@
              location="component://relationshipmgr/service/PartyServices/updateCustomer.groovy">
         <in-parameters>
             <parameter name="emailAddress"/>
-            <parameter name="postalAddress"/>
             <parameter name="toName"/>
             <parameter name="attnName"/>
             <parameter name="address1"/>
